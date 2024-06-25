@@ -19,6 +19,6 @@ jobs:
         java-version: '11'
         distribution: 'adopt'
     - name: Grant execute permission for gradlew
-      run: chmod +x gradlew
+      run: chmod +x my-product-api/gradlew
     - name: Build with Gradle
-      run: ./gradlew build
+      run: cd my-product-api && ./gradlew build
