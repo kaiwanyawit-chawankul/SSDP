@@ -1,3 +1,7 @@
+github copilot
+
+## module 2
+
 #prompt 1
 
 @workspace /new
