@@ -1,2 +1,4 @@
 # Gradle
 **/.gradle/
+my-product-api/local.properties
+my-product-api/gradle/wrapper/gradle-wrapper.properties
